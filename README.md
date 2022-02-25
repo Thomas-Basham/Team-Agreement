@@ -1,6 +1,13 @@
 # Team-Agreement
 
-Cooperation Plan
+## Team Members
+
+- Marcus Hartwig
+- Abdi Yussuf
+- James Brooks
+- Thomas Basham
+
+## Cooperation Plan
 
 Marcus Strengths: Flexible in communication, open, strong work ethic, comfortable working in a team dynamic and navigating conflict among the team, effective at facilitating conflict resolution, able to articulate thoughts and feelings well.
 
